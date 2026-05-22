@@ -165,8 +165,9 @@ st.sidebar.info(
 # Title
 st.title("💧 SDG 6: Clean Water and Sanitation")
 st.markdown("### Understanding the Drivers of Global Water Access")
-st.markdown("---")
 st.markdown("Adrielle Arcos BSIS 3A")
+st.markdown("---")
+
 # Filter data for selected year and regions
 year_data = df_time[(df_time['year'] == selected_year) & (df_time['region'].isin(selected_regions))]
 
