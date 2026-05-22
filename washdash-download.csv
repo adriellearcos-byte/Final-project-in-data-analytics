@@ -1,0 +1,267 @@
+Type,Region,Residence Type,Service Type,Year,Coverage,Population,Service level
+sdg,Australia and New Zealand,total,Sanitation,2024,5.36589,1713174.79036,Basic service
+sdg,Australia and New Zealand,total,Sanitation,2024,0,0,Limited service
+sdg,Australia and New Zealand,total,Sanitation,2024,0,0,Open defecation
+sdg,Australia and New Zealand,total,Sanitation,2024,94.63411,30213974.24987,Safely managed service
+sdg,Australia and New Zealand,total,Sanitation,2024,0,0,Unimproved
+sdg,Australia and New Zealand,total,Drinking water,2024,99.97459,31919037.79307,At least basic
+sdg,Australia and New Zealand,rural,Drinking water,2024,100,4212567.56,At least basic
+sdg,Australia and New Zealand,urban,Drinking water,2024,0.31992,88665.73888,Basic service
+sdg,Australia and New Zealand,total,Drinking water,2024,0,0,Limited service
+sdg,Australia and New Zealand,rural,Drinking water,2024,0,0,Limited service
+sdg,Australia and New Zealand,urban,Drinking water,2024,0,0,Limited service
+sdg,Australia and New Zealand,total,Drinking water,2024,0,0,Surface water
+sdg,Australia and New Zealand,rural,Drinking water,2024,0,0,Surface water
+sdg,Australia and New Zealand,urban,Drinking water,2024,0,0,Surface water
+sdg,Australia and New Zealand,urban,Drinking water,2024,99.65081,27617805.4655,Safely managed service
+sdg,Australia and New Zealand,total,Drinking water,2024,0.02541,8111.20693,Unimproved
+sdg,Australia and New Zealand,rural,Drinking water,2024,0,0,Unimproved
+sdg,Australia and New Zealand,urban,Drinking water,2024,0.02927,8110.7971,Unimproved
+sdg,Central and Southern Asia,total,Hygiene,2024,86.52793,1857133703.24211,Basic service
+sdg,Central and Southern Asia,rural,Hygiene,2024,82.29757,1076989822.74193,Basic service
+sdg,Central and Southern Asia,urban,Hygiene,2024,93.13716,780143885.96915,Basic service
+sdg,Central and Southern Asia,total,Hygiene,2024,10.8796,233506928.55475,Limited service
+sdg,Central and Southern Asia,rural,Hygiene,2024,14.65768,191818158.02516,Limited service
+sdg,Central and Southern Asia,urban,Hygiene,2024,4.977,41688771.90445,Limited service
+sdg,Central and Southern Asia,total,Hygiene,2024,2.59247,55641723.20314,No handwashing facility
+sdg,Central and Southern Asia,rural,Hygiene,2024,3.04476,39845337.23291,No handwashing facility
+sdg,Central and Southern Asia,urban,Hygiene,2024,1.88585,15796386.22641,No handwashing facility
+sdg,Central and Southern Asia,total,Sanitation,2024,22.77829,488886332.765,Basic service
+sdg,Central and Southern Asia,rural,Sanitation,2024,16.70351,218591041.55958,Basic service
+sdg,Central and Southern Asia,urban,Sanitation,2024,32.27546,270348653.07896,Basic service
+sdg,Central and Southern Asia,total,Sanitation,2024,10.20257,218975856.07823,Limited service
+sdg,Central and Southern Asia,rural,Sanitation,2024,9.03555,118244033.50068,Limited service
+sdg,Central and Southern Asia,urban,Sanitation,2024,12.02133,100694128.49311,Limited service
+sdg,Central and Southern Asia,total,Sanitation,2024,6.00516,128887708.63659,Open defecation
+sdg,Central and Southern Asia,rural,Sanitation,2024,9.51817,124559830.74576,Open defecation
+sdg,Central and Southern Asia,urban,Sanitation,2024,0.07402,620003.51936,Open defecation
+sdg,Central and Southern Asia,total,Sanitation,2024,58.42069,1253872875.35474,Safely managed service
+sdg,Central and Southern Asia,rural,Sanitation,2024,61.49183,804714888.59333,Safely managed service
+sdg,Central and Southern Asia,urban,Sanitation,2024,53.62254,449157991.39897,Safely managed service
+sdg,Central and Southern Asia,total,Sanitation,2024,2.5933,55659578.43538,Unimproved
+sdg,Central and Southern Asia,rural,Sanitation,2024,3.25094,42543534.62317,Unimproved
+sdg,Central and Southern Asia,urban,Sanitation,2024,2.00665,16808269.40699,Unimproved
+sdg,Central and Southern Asia,total,Drinking water,2024,18.13557,389240468.30659,Basic service
+sdg,Central and Southern Asia,rural,Drinking water,2024,20.82998,272592210.57458,Basic service
+sdg,Central and Southern Asia,urban,Drinking water,2024,13.926,116648257.61905,Basic service
+sdg,Central and Southern Asia,total,Drinking water,2024,2.45111,52607635.65949,Limited service
+sdg,Central and Southern Asia,rural,Drinking water,2024,2.97478,38929530.41747,Limited service
+sdg,Central and Southern Asia,urban,Drinking water,2024,1.63295,13678105.2967,Limited service
+sdg,Central and Southern Asia,total,Drinking water,2024,0.64179,13774590.09294,Surface water
+sdg,Central and Southern Asia,rural,Drinking water,2024,0.94108,12315461.6395,Surface water
+sdg,Central and Southern Asia,urban,Drinking water,2024,0.1742,1459128.57906,Surface water
+sdg,Central and Southern Asia,total,Drinking water,2024,76.98309,1652274446.53101,Safely managed service
+sdg,Central and Southern Asia,rural,Drinking water,2024,73.1339,957069265.50154,Safely managed service
+sdg,Central and Southern Asia,urban,Drinking water,2024,82.99679,695205185.88153,Safely managed service
+sdg,Central and Southern Asia,total,Drinking water,2024,1.78845,38385194.24436,Unimproved
+sdg,Central and Southern Asia,rural,Drinking water,2024,2.12026,27746839.92623,Unimproved
+sdg,Central and Southern Asia,urban,Drinking water,2024,1.27006,10638369.2947,Unimproved
+sdg,Eastern and South-Eastern Asia,total,Hygiene,2024,93.86264,2206959327.74082,Basic service
+sdg,Eastern and South-Eastern Asia,rural,Hygiene,2024,90.71664,778733629.20394,Basic service
+sdg,Eastern and South-Eastern Asia,urban,Hygiene,2024,95.67168,1428225655.07954,Basic service
+sdg,Eastern and South-Eastern Asia,total,Hygiene,2024,5.7769,135830234.15436,Limited service
+sdg,Eastern and South-Eastern Asia,rural,Hygiene,2024,8.5381,73293133.81388,Limited service
+sdg,Eastern and South-Eastern Asia,urban,Hygiene,2024,4.18913,62537097.83675,Limited service
+sdg,Eastern and South-Eastern Asia,total,Hygiene,2024,0.36046,8475271.10482,No handwashing facility
+sdg,Eastern and South-Eastern Asia,rural,Hygiene,2024,0.74526,6397522.77718,No handwashing facility
+sdg,Eastern and South-Eastern Asia,urban,Hygiene,2024,0.13918,2077748.18371,No handwashing facility
+sdg,Eastern and South-Eastern Asia,total,Sanitation,2024,31.03079,729616015.56044,Basic service
+sdg,Eastern and South-Eastern Asia,rural,Sanitation,2024,47.70464,409508177.6131,Basic service
+sdg,Eastern and South-Eastern Asia,urban,Sanitation,2024,21.20622,316575021.79628,Basic service
+sdg,Eastern and South-Eastern Asia,total,Sanitation,2024,2.94877,69333414.48764,Limited service
+sdg,Eastern and South-Eastern Asia,rural,Sanitation,2024,3.86243,33156072.18944,Limited service
+sdg,Eastern and South-Eastern Asia,urban,Sanitation,2024,2.6332,39309534.60311,Limited service
+sdg,Eastern and South-Eastern Asia,total,Sanitation,2024,0.65166,15322281.72515,Open defecation
+sdg,Eastern and South-Eastern Asia,rural,Sanitation,2024,1.40299,12043570.15388,Open defecation
+sdg,Eastern and South-Eastern Asia,urban,Sanitation,2024,0.18629,2781001.24312,Open defecation
+sdg,Eastern and South-Eastern Asia,total,Sanitation,2024,64.09638,1507075624.81751,Safely managed service
+sdg,Eastern and South-Eastern Asia,rural,Sanitation,2024,44.28337,380139179.17238,Safely managed service
+sdg,Eastern and South-Eastern Asia,urban,Sanitation,2024,75.48941,1126936414.9475,Safely managed service
+sdg,Eastern and South-Eastern Asia,total,Sanitation,2024,1.2724,29917490.02352,Unimproved
+sdg,Eastern and South-Eastern Asia,rural,Sanitation,2024,2.74658,23577282.50663,Unimproved
+sdg,Eastern and South-Eastern Asia,urban,Sanitation,2024,0.48488,7238531.95625,Unimproved
+sdg,Eastern and South-Eastern Asia,total,Drinking water,2024,20.10814,472795512.07962,Basic service
+sdg,Eastern and South-Eastern Asia,rural,Drinking water,2024,33.39188,286644040.4537,Basic service
+sdg,Eastern and South-Eastern Asia,urban,Drinking water,2024,12.16999,181678533.51762,Basic service
+sdg,Eastern and South-Eastern Asia,total,Drinking water,2024,1.12729,26505573.34605,Limited service
+sdg,Eastern and South-Eastern Asia,rural,Drinking water,2024,1.79519,15410372.52777,Limited service
+sdg,Eastern and South-Eastern Asia,urban,Drinking water,2024,0.77749,11606695.60351,Limited service
+sdg,Eastern and South-Eastern Asia,total,Drinking water,2024,0.43755,10287852.68749,Surface water
+sdg,Eastern and South-Eastern Asia,rural,Drinking water,2024,0.94716,8130672.76952,Surface water
+sdg,Eastern and South-Eastern Asia,urban,Drinking water,2024,0.14285,2132492.23007,Surface water
+sdg,Eastern and South-Eastern Asia,total,Drinking water,2024,75.31449,1770843006.38728,Safely managed service
+sdg,Eastern and South-Eastern Asia,rural,Drinking water,2024,58.33751,500783349.73718,Safely managed service
+sdg,Eastern and South-Eastern Asia,urban,Drinking water,2024,85.07671,1270059620.9444,Safely managed service
+sdg,Eastern and South-Eastern Asia,total,Drinking water,2024,3.01254,70832908.60652,Unimproved
+sdg,Eastern and South-Eastern Asia,rural,Drinking water,2024,5.52825,47455851.02005,Unimproved
+sdg,Eastern and South-Eastern Asia,urban,Drinking water,2024,1.83296,27363160.21952,Unimproved
+sdg,Europe and Northern America,total,Sanitation,2024,12.57132,141891747.67244,Basic service
+sdg,Europe and Northern America,rural,Sanitation,2024,21.34704,51780920.80156,Basic service
+sdg,Europe and Northern America,urban,Sanitation,2024,10.15292,89967777.23702,Basic service
+sdg,Europe and Northern America,total,Sanitation,2024,0.56579,6386046.07229,Limited service
+sdg,Europe and Northern America,rural,Sanitation,2024,0.61516,1492186.71084,Limited service
+sdg,Europe and Northern America,urban,Sanitation,2024,0.55165,4888340.5092,Limited service
+sdg,Europe and Northern America,total,Sanitation,2024,0.00096,10850.26458,Open defecation
+sdg,Europe and Northern America,rural,Sanitation,2024,0.00379,9192.68163,Open defecation
+sdg,Europe and Northern America,urban,Sanitation,2024,0.00022,1911.25453,Open defecation
+sdg,Europe and Northern America,total,Sanitation,2024,85.45403,964514610.08728,Safely managed service
+sdg,Europe and Northern America,rural,Sanitation,2024,72.39559,175607987.77548,Safely managed service
+sdg,Europe and Northern America,urban,Sanitation,2024,89.04552,789056333.79285,Safely managed service
+sdg,Europe and Northern America,total,Sanitation,2024,1.4079,15890890.36313,Unimproved
+sdg,Europe and Northern America,rural,Sanitation,2024,5.63842,13676971.57209,Unimproved
+sdg,Europe and Northern America,urban,Sanitation,2024,0.24968,2212525.4971,Unimproved
+sdg,Europe and Northern America,total,Drinking water,2024,4.62521,52204509.83628,Basic service
+sdg,Europe and Northern America,rural,Drinking water,2024,12.77511,30988239.27456,Basic service
+sdg,Europe and Northern America,urban,Drinking water,2024,2.3236,20590072.28646,Basic service
+sdg,Europe and Northern America,total,Drinking water,2024,0.32815,3703856.90594,Limited service
+sdg,Europe and Northern America,rural,Drinking water,2024,0.3804,922721.0793,Limited service
+sdg,Europe and Northern America,urban,Drinking water,2024,0.35149,3114605.88729,Limited service
+sdg,Europe and Northern America,total,Drinking water,2024,0.04314,486873.80534,Surface water
+sdg,Europe and Northern America,rural,Drinking water,2024,0.02535,61500.73005,Surface water
+sdg,Europe and Northern America,urban,Drinking water,2024,0.04787,424194.41876,Surface water
+sdg,Europe and Northern America,total,Drinking water,2024,94.2292,1063559502.55365,Safely managed service
+sdg,Europe and Northern America,rural,Drinking water,2024,84.22123,204293124.16155,Safely managed service
+sdg,Europe and Northern America,urban,Drinking water,2024,96.98718,859429442.09005,Safely managed service
+sdg,Europe and Northern America,total,Drinking water,2024,0.77429,8739398.20552,Unimproved
+sdg,Europe and Northern America,rural,Drinking water,2024,2.59791,6301672.81062,Unimproved
+sdg,Europe and Northern America,urban,Drinking water,2024,0.28986,2568571.46306,Unimproved
+sdg,Latin America and the Caribbean,rural,Hygiene,2024,71.70499,85404077.28633,Basic service
+sdg,Latin America and the Caribbean,rural,Sanitation,2024,75.33992,89733451.95446,At least basic
+sdg,Latin America and the Caribbean,total,Sanitation,2024,39.20547,260114999.1024,Basic service
+sdg,Latin America and the Caribbean,urban,Sanitation,2024,40.7345,221742871.111,Basic service
+sdg,Latin America and the Caribbean,total,Sanitation,2024,3.88686,25788008.77991,Limited service
+sdg,Latin America and the Caribbean,rural,Sanitation,2024,6.23684,7428371.34184,Limited service
+sdg,Latin America and the Caribbean,urban,Sanitation,2024,3.55015,19325661.60313,Limited service
+sdg,Latin America and the Caribbean,total,Sanitation,2024,0.71222,4725364.70277,Open defecation
+sdg,Latin America and the Caribbean,rural,Sanitation,2024,3.17392,3780289.75222,Open defecation
+sdg,Latin America and the Caribbean,urban,Sanitation,2024,0.13802,751344.29364,Open defecation
+sdg,Latin America and the Caribbean,total,Sanitation,2024,51.23591,339932864.07419,Safely managed service
+sdg,Latin America and the Caribbean,urban,Sanitation,2024,52.87399,287825514.64676,Safely managed service
+sdg,Latin America and the Caribbean,total,Sanitation,2024,4.95954,32904838.0662,Unimproved
+sdg,Latin America and the Caribbean,rural,Sanitation,2024,15.24933,18162677.00758,Unimproved
+sdg,Latin America and the Caribbean,urban,Sanitation,2024,2.70333,14715896.90248,Unimproved
+sdg,Latin America and the Caribbean,total,Drinking water,2024,18.58654,123315388.51858,Basic service
+sdg,Latin America and the Caribbean,rural,Drinking water,2024,37.17592,44278299.77507,Basic service
+sdg,Latin America and the Caribbean,urban,Drinking water,2024,14.82814,80718638.51171,Basic service
+sdg,Latin America and the Caribbean,total,Drinking water,2024,0.66994,4444852.45829,Limited service
+sdg,Latin America and the Caribbean,rural,Drinking water,2024,2.11725,2521751.91216,Limited service
+sdg,Latin America and the Caribbean,urban,Drinking water,2024,0.35602,1938048.62436,Limited service
+sdg,Latin America and the Caribbean,rural,Drinking water,2024,3.73541,4449057.50662,Surface water
+sdg,Latin America and the Caribbean,urban,Drinking water,2024,0.03777,205609.90061,Surface water
+sdg,Latin America and the Caribbean,total,Drinking water,2024,78.92668,523651752.80432,Safely managed service
+sdg,Latin America and the Caribbean,rural,Drinking water,2024,53.69547,63953872.20968,Safely managed service
+sdg,Latin America and the Caribbean,urban,Drinking water,2024,84.453,459729452.45727,Safely managed service
+sdg,Latin America and the Caribbean,total,Drinking water,2024,0.74312,4930354.48649,Unimproved
+sdg,Latin America and the Caribbean,rural,Drinking water,2024,3.27594,3901807.37193,Unimproved
+sdg,Latin America and the Caribbean,urban,Drinking water,2024,0.32507,1769530.25133,Unimproved
+sdg,Northern Africa and Western Asia,total,Hygiene,2024,89.24116,518921438.16659,Basic service
+sdg,Northern Africa and Western Asia,rural,Hygiene,2024,85.56707,181491278.21652,Basic service
+sdg,Northern Africa and Western Asia,urban,Hygiene,2024,91.3509,337430161.86389,Basic service
+sdg,Northern Africa and Western Asia,total,Hygiene,2024,7.98411,46426190.6108,Limited service
+sdg,Northern Africa and Western Asia,rural,Hygiene,2024,11.58366,24569425.75726,Limited service
+sdg,Northern Africa and Western Asia,total,Hygiene,2024,2.77472,16134529.22261,No handwashing facility
+sdg,Northern Africa and Western Asia,rural,Hygiene,2024,2.84927,6043421.17522,No handwashing facility
+sdg,Northern Africa and Western Asia,total,Sanitation,2024,30.24913,175893306.43914,Basic service
+sdg,Northern Africa and Western Asia,rural,Sanitation,2024,36.77241,77995793.29142,Basic service
+sdg,Northern Africa and Western Asia,urban,Sanitation,2024,26.48895,97844365.73335,Basic service
+sdg,Northern Africa and Western Asia,total,Sanitation,2024,2.37901,13833546.8096,Limited service
+sdg,Northern Africa and Western Asia,rural,Sanitation,2024,2.47841,5256803.94741,Limited service
+sdg,Northern Africa and Western Asia,urban,Sanitation,2024,2.28342,8434450.42621,Limited service
+sdg,Northern Africa and Western Asia,total,Sanitation,2024,1.85043,10759930.7911,Open defecation
+sdg,Northern Africa and Western Asia,rural,Sanitation,2024,4.80313,10187646.67641,Open defecation
+sdg,Northern Africa and Western Asia,urban,Sanitation,2024,0.20722,765419.59033,Open defecation
+sdg,Northern Africa and Western Asia,total,Sanitation,2024,60.71669,353056718.04896,Safely managed service
+sdg,Northern Africa and Western Asia,rural,Sanitation,2024,45.01108,95470361.90616,Safely managed service
+sdg,Northern Africa and Western Asia,urban,Sanitation,2024,69.73516,257586356.98156,Safely managed service
+sdg,Northern Africa and Western Asia,total,Sanitation,2024,4.80473,27938650.79588,Unimproved
+sdg,Northern Africa and Western Asia,rural,Sanitation,2024,10.93497,23193523.04003,Unimproved
+sdg,Northern Africa and Western Asia,urban,Sanitation,2024,1.28525,4747440.5365,Unimproved
+sdg,Northern Africa and Western Asia,rural,Drinking water,2024,85.1641,180636565.29577,At least basic
+sdg,Northern Africa and Western Asia,total,Drinking water,2024,15.96001,92804602.54763,Basic service
+sdg,Northern Africa and Western Asia,urban,Drinking water,2024,16.18176,59771884.14029,Basic service
+sdg,Northern Africa and Western Asia,total,Drinking water,2024,5.46513,31778777.41299,Limited service
+sdg,Northern Africa and Western Asia,rural,Drinking water,2024,9.43325,20008314.83519,Limited service
+sdg,Northern Africa and Western Asia,urban,Drinking water,2024,3.18706,11772314.50935,Limited service
+sdg,Northern Africa and Western Asia,total,Drinking water,2024,0.78234,4549172.1124,Surface water
+sdg,Northern Africa and Western Asia,rural,Drinking water,2024,1.89433,4017948.67621,Surface water
+sdg,Northern Africa and Western Asia,urban,Drinking water,2024,0.15863,585930.32736,Surface water
+sdg,Northern Africa and Western Asia,total,Drinking water,2024,76.20273,443105303.50504,Safely managed service
+sdg,Northern Africa and Western Asia,urban,Drinking water,2024,79.94521,295300057.18058,Safely managed service
+sdg,Northern Africa and Western Asia,total,Drinking water,2024,1.58978,9244302.84038,Unimproved
+sdg,Northern Africa and Western Asia,rural,Drinking water,2024,3.50832,7441296.34183,Unimproved
+sdg,Northern Africa and Western Asia,urban,Drinking water,2024,0.52733,1947846.00637,Unimproved
+sdg,Oceania,total,Hygiene,2024,43.25062,6124965.39952,Basic service
+sdg,Oceania,rural,Hygiene,2024,34.78497,3815288.9762,Basic service
+sdg,Oceania,urban,Hygiene,2024,72.32757,2309676.52059,Basic service
+sdg,Oceania,total,Hygiene,2024,23.12146,3274360.76516,Limited service
+sdg,Oceania,rural,Hygiene,2024,24.76382,2716148.30822,Limited service
+sdg,Oceania,urban,Hygiene,2024,17.48044,558212.55048,Limited service
+sdg,Oceania,total,Hygiene,2024,33.62792,4762239.83532,No handwashing facility
+sdg,Oceania,rural,Hygiene,2024,40.4512,4436773.23665,No handwashing facility
+sdg,Oceania,urban,Hygiene,2024,10.192,325466.76457,No handwashing facility
+sdg,Oceania,total,Sanitation,2024,14.94301,2116164.13524,Basic service
+sdg,Oceania,rural,Sanitation,2024,8.33911,914650.86765,Basic service
+sdg,Oceania,urban,Sanitation,2024,30.68396,979847.9042,Basic service
+sdg,Oceania,total,Sanitation,2024,6.37117,902257.35338,Limited service
+sdg,Oceania,rural,Sanitation,2024,5.5003,603284.5223,Limited service
+sdg,Oceania,urban,Sanitation,2024,10.72467,342476.97591,Limited service
+sdg,Oceania,total,Sanitation,2024,15.12709,2142233.21599,Open defecation
+sdg,Oceania,rural,Sanitation,2024,18.54145,2033665.22203,Open defecation
+sdg,Oceania,urban,Sanitation,2024,4.76317,152104.96654,Open defecation
+sdg,Oceania,total,Sanitation,2024,21.32411,3019828.57579,Safely managed service
+sdg,Oceania,rural,Sanitation,2024,17.51405,1920977.88079,Safely managed service
+sdg,Oceania,urban,Sanitation,2024,34.41053,1098850.74541,Safely managed service
+sdg,Oceania,total,Sanitation,2024,42.23461,5981082.72696,Unimproved
+sdg,Oceania,rural,Sanitation,2024,50.10509,5495631.99068,Unimproved
+sdg,Oceania,urban,Sanitation,2024,19.41767,620075.21656,Unimproved
+sdg,Oceania,total,Drinking water,2024,62.55521,8858797.64502,At least basic
+sdg,Oceania,rural,Drinking water,2024,53.5926,5878149.07901,At least basic
+sdg,Oceania,urban,Drinking water,2024,90.10106,2877247.52274,At least basic
+sdg,Oceania,total,Drinking water,2024,5.99944,849614.50796,Limited service
+sdg,Oceania,rural,Drinking water,2024,6.9423,761446.60278,Limited service
+sdg,Oceania,urban,Drinking water,2024,3.65093,116587.05311,Limited service
+sdg,Oceania,total,Drinking water,2024,7.12108,1008456.59348,Surface water
+sdg,Oceania,rural,Drinking water,2024,8.71668,956063.5226,Surface water
+sdg,Oceania,urban,Drinking water,2024,2.04483,65298.80977,Surface water
+sdg,Oceania,total,Drinking water,2024,24.32427,3444697.25354,Unimproved
+sdg,Oceania,rural,Drinking water,2024,30.74842,3372551.31668,Unimproved
+sdg,Oceania,urban,Drinking water,2024,4.20318,134222.45,Unimproved
+sdg,Sub-Saharan Africa,total,Hygiene,2024,26.75781,332602147.35054,Basic service
+sdg,Sub-Saharan Africa,rural,Hygiene,2024,18.94925,132192253.10247,Basic service
+sdg,Sub-Saharan Africa,urban,Hygiene,2024,36.74566,200409893.40086,Basic service
+sdg,Sub-Saharan Africa,total,Hygiene,2024,40.66501,505469908.92202,Limited service
+sdg,Sub-Saharan Africa,rural,Hygiene,2024,44.76188,312264271.57304,Limited service
+sdg,Sub-Saharan Africa,urban,Hygiene,2024,35.42474,193205635.06901,Limited service
+sdg,Sub-Saharan Africa,total,Hygiene,2024,32.57718,404937453.72744,No handwashing facility
+sdg,Sub-Saharan Africa,rural,Hygiene,2024,36.28887,253155559.3191,No handwashing facility
+sdg,Sub-Saharan Africa,urban,Hygiene,2024,27.82959,151781892.55513,No handwashing facility
+sdg,Sub-Saharan Africa,total,Sanitation,2024,9.42624,117169094.79232,Basic service
+sdg,Sub-Saharan Africa,rural,Sanitation,2024,4.19813,29286693.03232,Basic service
+sdg,Sub-Saharan Africa,urban,Sanitation,2024,16.3813,89343187.58057,Basic service
+sdg,Sub-Saharan Africa,total,Sanitation,2024,18.04352,224282718.04224,Limited service
+sdg,Sub-Saharan Africa,rural,Sanitation,2024,9.88063,68928486.62149,Limited service
+sdg,Sub-Saharan Africa,urban,Sanitation,2024,28.92577,157760425.10966,Limited service
+sdg,Sub-Saharan Africa,total,Sanitation,2024,15.45993,192168390.26393,Open defecation
+sdg,Sub-Saharan Africa,rural,Sanitation,2024,23.51989,164077595.0009,Open defecation
+sdg,Sub-Saharan Africa,urban,Sanitation,2024,4.68834,25570062.76131,Open defecation
+sdg,Sub-Saharan Africa,total,Sanitation,2024,25.98739,323025715.19706,Safely managed service
+sdg,Sub-Saharan Africa,rural,Sanitation,2024,21.40963,149356173.38363,Safely managed service
+sdg,Sub-Saharan Africa,urban,Sanitation,2024,31.84275,173669540.80373,Safely managed service
+sdg,Sub-Saharan Africa,total,Sanitation,2024,31.08292,386363592.33957,Unimproved
+sdg,Sub-Saharan Africa,rural,Sanitation,2024,40.99171,285963136.84889,Unimproved
+sdg,Sub-Saharan Africa,urban,Sanitation,2024,18.16184,99054206.88488,Unimproved
+sdg,Sub-Saharan Africa,total,Drinking water,2024,35.79999,444997252.84544,Basic service
+sdg,Sub-Saharan Africa,rural,Drinking water,2024,36.74733,256353786.00386,Basic service
+sdg,Sub-Saharan Africa,urban,Drinking water,2024,34.71208,189318799.51675,Basic service
+sdg,Sub-Saharan Africa,total,Drinking water,2024,13.47199,167458121.60692,Limited service
+sdg,Sub-Saharan Africa,rural,Drinking water,2024,17.20468,120021896.17458,Limited service
+sdg,Sub-Saharan Africa,urban,Drinking water,2024,8.7172,47543377.62908,Limited service
+sdg,Sub-Saharan Africa,total,Drinking water,2024,5.56457,69168187.97973,Surface water
+sdg,Sub-Saharan Africa,rural,Drinking water,2024,9.25604,64571270.09286,Surface water
+sdg,Sub-Saharan Africa,urban,Drinking water,2024,0.83005,4527072.73553,Surface water
+sdg,Sub-Saharan Africa,total,Drinking water,2024,31.73842,394511627.35476,Safely managed service
+sdg,Sub-Saharan Africa,rural,Drinking water,2024,16.20676,113060312.74927,Safely managed service
+sdg,Sub-Saharan Africa,urban,Drinking water,2024,51.60481,281451313.99034,Safely managed service
+sdg,Sub-Saharan Africa,total,Drinking water,2024,13.42502,166874313.24296,Unimproved
+sdg,Sub-Saharan Africa,rural,Drinking water,2024,20.5852,143604830.96843,Unimproved
+sdg,Sub-Saharan Africa,urban,Drinking water,2024,4.13586,22556847.58391,Unimproved
